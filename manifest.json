@@ -26,7 +26,7 @@
   },
   "background": {
     "scripts": [
-      "service-workers/icon.js"
+      "background/icon.js"
     ]
   },
   "content_scripts": [
