@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Shorts don't loop",
   "description": "A Mozilla Firefox add-on that prevents YouTube Shorts from looping.",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "permissions": [
     "storage"
   ],
@@ -43,7 +43,7 @@
       ]
     }
   ],
-  "homepage_url": "https://www.nwawsoft.com",
+  "homepage_url": "https://www.nwawsoft.com/shorts-dont-loop-firefox/",
   "author": "Nico Wawrzyniak",
   "browser_specific_settings": {
     "gecko": {
