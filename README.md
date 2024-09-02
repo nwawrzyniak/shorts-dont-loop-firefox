@@ -5,4 +5,4 @@ The plugin can be easily activated and deactivated from the navigation bar – n
 
 [Download from the Mozilla Add-Ons Browser](https://addons.mozilla.org/en-US/firefox/addon/shorts-dont-loop/)
 
-[Download .zip from the GitHub Releases page](https://github.com/nwawrzyniak/shorts-dont-loop-firefox/releases/latest) (this .zip is not signed and can only be installed in developer mode [[Wiki](https://github.com/nwawrzyniak/shorts-dont-loop-firefox/wiki/How-to-install)])
+[Download .zip from the GitHub Releases page](https://github.com/nwawrzyniak/shorts-dont-loop-firefox/releases/latest) (this .zip is not signed and can only be installed temporarily, in developer mode or in Firefox Nightly [[Wiki](https://github.com/nwawrzyniak/shorts-dont-loop-firefox/wiki/How-to-install)])
